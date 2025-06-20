@@ -92,5 +92,4 @@ Bu proje, Java dilinde geliştirilmiş ve nesne yönelimli programlama (OOP) ile
 
 
 ![newUml](https://github.com/user-attachments/assets/a7fd8ad1-9f4a-470d-8f37-5df6f92ebb62)
-##UML DİYAGRAMI
 
